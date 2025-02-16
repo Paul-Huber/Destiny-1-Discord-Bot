@@ -1,5 +1,6 @@
 # Destiny-1-Discord-Bot
-A Discord bot built in JavaScript to add functionality to a public Discord server for the video game Destiny 1. Its primary purpose is to retrieve in-game user data from Destiny 1 via the Bungie.Net web API, which is a collection of RESTful services directly connected to the game. The bot is able to retrieve, parse, and display the information, using Discord as an intermediary UI. The bot is also capable of basic Discord server management functions, such as automated role management and displaying server information.
+A Discord bot built in JavaScript to add functionality to a public Discord server for the video game Destiny 1. 
+Its primary purpose is to retrieve in-game user data from Destiny 1 via the Bungie.Net web API, which is a collection of RESTful services directly connected to the game. The bot is able to retrieve, parse, and display the information, using Discord as an intermediary UI. The bot is also capable of basic Discord server management functions, such as automated role management and displaying server information.
 
 Bungie.Net web API: https://bungie-net.github.io/
 
